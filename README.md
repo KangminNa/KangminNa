@@ -1,13 +1,16 @@
-![header](https://capsule-render.vercel.app/api?type=Slice&color=gradient&height=120&animation=fadeIn&section=footer&text=안녕하세요!&fontAlign=70)
+<H1>안녕하세요! 나강민 입니다.</H1>
 
-
+&nbsp;
+&nbsp;
 
 <h3>👩‍💻 My Github Stats 👩‍💻</h3>
 <div>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KangminNa&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+[![Kangmin's GitHub stats](https://github-readme-stats.vercel.app/api?username=KangminNa&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
+&nbsp;
+&nbsp;
 
 <h3>Language</h3>
 <div>
@@ -16,4 +19,10 @@
 </a>
 </div>
 
+&nbsp;
+&nbsp;
+
+<h3>Baekjoon</h3>
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=skrkdals4023)](https://solved.ac/skrkdals4023/)
 
