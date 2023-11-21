@@ -33,12 +33,6 @@
 &nbsp;
 &nbsp;
 
-<div align = center>
 
-<h3>Baekjoon</h3>
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=skrkdals4023)](https://solved.ac/skrkdals4023/)
-  
-</div>
 
 
