@@ -20,6 +20,10 @@
 &nbsp;
 &nbsp;
 
+![](./profile-3d-contrib/profile-green-animate.svg)
+
+&nbsp;
+&nbsp;
 
 <div align = center>
 
