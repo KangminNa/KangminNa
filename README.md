@@ -1,6 +1,6 @@
 <div align = center>
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=header&text=Welcome%20Kangmin%20Github&fontSize=30)
+<h3> 안녕하세요 :) </h3>
 
   
 </div>
