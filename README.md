@@ -38,6 +38,6 @@
   src="https://render.gitanimals.org/farms/KangminNa"
   width="800"
   height="300"
-  style="margin : 0 auto"
+  style="display:flex; justify-content:center;"
 />
 </a>
